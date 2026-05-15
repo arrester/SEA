@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+#scan data
+scan_results.txt
+urls.txt
+sqlmap-out/
